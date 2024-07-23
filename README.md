@@ -1,10 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Tho Truong. I am a student majoring in software development. I am interested in the following topics:  Reinforcement Learning, and Web Development.<br>
 ## 📫 How to reach me: 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thotvte)  
-[![Facebook](https://i.stack.imgur.com/aaI6R.png) Facebook](https://www.facebook.com/tho.truongvan.2109/) 
-[![Gmail](https://i.stack.imgur.com/P3T5x.png) Gmail](mailto:vantho210903@gmail.com)
-
+Email : vantho210903@gmail.com
+Facebook : https://www.facebook.com/tho.truongvan.2109/
 
 
 ![Thotvte's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thotvte&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
