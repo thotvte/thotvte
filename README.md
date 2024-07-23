@@ -6,5 +6,5 @@ My name is Viet Nguyen. I am a student majoring in software development. I am in
 
 <a href="https://github.com/thotvte/Web_film">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thotvte&repo=Web_film&theme=radical" />
+</a>
