@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am a student majoring in software development. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Tho Truong. I am a student majoring in software development. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
 ![Thotvte's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thotvte&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
